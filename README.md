@@ -15,7 +15,7 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * TypeScript
 * Go
 
-## A few things I want to learn soon...
+## Here's a few things I want to learn soon...
 
 * Tailwind CSS
 * SvelteKit
