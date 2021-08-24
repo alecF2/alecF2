@@ -14,3 +14,14 @@ I'm a developer who likes to code and build new things using fun new technologie
 
 * TypeScript
 * Go
+
+## A few things I want to learn soon...
+
+* Tailwind CSS
+* SvelteKit
+* Vue.js
+* Python
+* NLP
+* WebSockets
+* Django
+* Flask
