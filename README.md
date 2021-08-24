@@ -1,6 +1,6 @@
 # 	Hi, I'm Alec 👋
 
-I'm a developer who likes to code and build new things using fun new technologies.
+I'm a full stack developer who likes to code and build new things using fun new technologies.
 
 ## My favorite technologies and/or frameworks are...
 
