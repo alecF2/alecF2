@@ -15,8 +15,16 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * TypeScript
 * Go
 
+## but I'm also familiar with...
+
+* C/C++
+* Node.js
+* Firebase
+* Kotlin
+
 ## Here's a few things I want to learn soon...
 
+* MongoDB
 * Tailwind CSS
 * SvelteKit
 * Vue.js
@@ -25,3 +33,4 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * WebSockets
 * Django
 * Flask
+* JWT
