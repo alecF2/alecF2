@@ -29,8 +29,7 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * SvelteKit
 * Vue.js
 * Python
-* NLP
 * WebSockets
-* Django
-* Flask
 * JWT
+* SolidJS
+* Web3
