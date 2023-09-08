@@ -7,8 +7,8 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * React
 * Next.js
 * Svelte
+* Vue.js
 * Express
-* GraphQL
 
 ## and my favorite languages are...
 
@@ -28,8 +28,7 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * Tailwind CSS
 * SvelteKit
 * Vue.js
-* Python
 * WebSockets
 * JWT
-* SolidJS
-* Web3
+* Solid.js
+* HTMX
