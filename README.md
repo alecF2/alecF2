@@ -2,18 +2,15 @@
 
 I'm a full stack developer who likes to code and build new things using fun new technologies.
 
-## My favorite technologies and/or frameworks are...
+## I typically / actively work with...
 
 * React
-* Next.js
-* Svelte
-* Vue.js
-* Express
-
-## and my favorite languages are...
-
+* Java
+* Quarkus
 * TypeScript
-* Go
+* JavaScript
+* TanStack Start
+* Vue.js
 
 ## but I'm also familiar with...
 
@@ -21,14 +18,20 @@ I'm a full stack developer who likes to code and build new things using fun new 
 * Node.js
 * Firebase
 * Kotlin
+* Express
+* Next.js
+* React Router
+* Remix
+* Go
+* DynamoDB
+* JWT
 
 ## Here's a few things I want to learn soon...
 
-* MongoDB
+* Kafka
+* Reactive Programming
 * Tailwind CSS
-* SvelteKit
-* Vue.js
+* Zustand
 * WebSockets
-* JWT
+* OAuth
 * Solid.js
-* HTMX
